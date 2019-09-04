@@ -3,7 +3,7 @@ import { View, StyleSheet, Text } from 'react-native';
 import PropTypes from 'prop-types';
 
 import barcodes from 'jsbarcode/src/barcodes';
-import {Surface, Shape} from '@react-native-community/art';
+// import {Surface, Shape} from '@react-native-community/art';
 import {Path, Svg} from 'react-native-svg';
 
 export default class Barcode extends PureComponent {
