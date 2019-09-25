@@ -18,7 +18,7 @@
   "author": "WonSikin <fnghwsj@gmail.com>",
   "dependencies": {
     "jsbarcode": "^3.8.0",
-    "react-native-svg": "9.9.3"
+    "react-native-svg": "^9.8.4"
   },
   "peerDependencies": {
     "prop-types": "^15.5.0"
